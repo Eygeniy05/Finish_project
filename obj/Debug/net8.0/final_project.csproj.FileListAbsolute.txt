@@ -1,0 +1,14 @@
+/Users/iulia/Desktop/don't my/CSHARP/final_project/bin/Debug/net8.0/final_project
+/Users/iulia/Desktop/don't my/CSHARP/final_project/bin/Debug/net8.0/final_project.deps.json
+/Users/iulia/Desktop/don't my/CSHARP/final_project/bin/Debug/net8.0/final_project.runtimeconfig.json
+/Users/iulia/Desktop/don't my/CSHARP/final_project/bin/Debug/net8.0/final_project.dll
+/Users/iulia/Desktop/don't my/CSHARP/final_project/bin/Debug/net8.0/final_project.pdb
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.AssemblyInfoInputs.cache
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.AssemblyInfo.cs
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.csproj.CoreCompileInputs.cache
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.dll
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/refint/final_project.dll
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.pdb
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/final_project.genruntimeconfig.cache
+/Users/iulia/Desktop/don't my/CSHARP/final_project/obj/Debug/net8.0/ref/final_project.dll
