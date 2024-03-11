@@ -46,3 +46,11 @@ static string[] FilterArrayByItemLength(string [] array, int limit) {
 
     return result;
 }
+
+int lengthLimit = 3;
+string [] array = EnterArrayFromKeyboard();
+Console.WriteLine("Введенный массив:");
+PrintArray(array);
+string [] filteredArray = FilterArrayByItemLength(array, lengthLimit);
+Console.WriteLine("Результат:");
+PrintArray(filteredArray);
